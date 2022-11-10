@@ -22,3 +22,11 @@ Using data gathered from the past 10 years from 16 states (CA, NY, NJ, CT, TX, F
 ![pexels-jack-s-9469484](https://user-images.githubusercontent.com/103558721/200761647-73522609-3450-43a1-bc56-66a1368d2316.jpg)
 
 
+## Objective
+
+By using government data of registered Electric Vehicles on the road, forecast the top three states that show the most growth and as a result would be most lucrative for investing in charging stations. 
+
+
+## Methodology 
+
+Data 
