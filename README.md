@@ -29,4 +29,13 @@ By using government data of registered Electric Vehicles on the road, forecast t
 
 ## Methodology 
 
-Data 
+1) Narrowed Results down to BEV's or Battery Electric Vehicles
+2) Registration Valid Date from DMV snapshots as measure of time
+3) SARIMA modeling due to trending/seasonal nature of data
+
+
+## Limitations 
+
+- Availability of data as not every state updates frequently or leaves readily accessible
+- Limited historic data to create model (several states with dating back only 4-5 years)
+
