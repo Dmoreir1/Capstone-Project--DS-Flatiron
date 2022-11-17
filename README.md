@@ -104,7 +104,9 @@ We recommend for Tesla to invest in Florida and New Jersey as both states exhibi
 3) Further analyses on data that accounts for state registrations expiration dates and remove any duplicate entries 
 
 
-Additional Sources: 
+
+
+### Additional Sources: 
 https://afdc.energy.gov/fuels/electricity_infrastructure.html
 https://www.duke-energy.com/energy-education/electric-vehicles/charging-your-ev/types-of-chargers
 https://www.atlasevhub.com/wp-content/uploads/2022/05/Open-Vehicle-Registration-Initiative.pdf
